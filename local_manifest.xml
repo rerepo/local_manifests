@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remove-project name="tmc9031/reopen_build"/>
+  <project name="tmc9031/reopen_build" path="build" revision="refs/heads/topic/preproc"/>
+  <remove-project name="tmc9031/reopen_example_helloc"/>
+  <project name="tmc9031/reopen_example_helloc" path="example/helloc" revision="refs/heads/topic/preproc"/>
+</manifest>
